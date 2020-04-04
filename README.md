@@ -1,5 +1,3 @@
-# DeepakShende.github.io
-
 
 # 😄 Resume Template 😄
 
