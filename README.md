@@ -3,7 +3,7 @@
 
 # 😄 Online News Popularity Prediction UI 😄
 
-![Demo gif](./resources/demo.gif)
+![Demo gif](./Resume_Website.gif)
 
 
 
